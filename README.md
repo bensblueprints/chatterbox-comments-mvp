@@ -64,7 +64,7 @@ Set `ADMIN_PASSWORD` and `BASE_URL` via environment — see [`.env.example`](.en
 
 ## ☕ Skip the setup — get the 1-click installer
 
-Want the packaged desktop installer and future updates without touching a terminal? Grab the one-time convenience version: **[whop.com/onetime-suite](https://whop.com/onetime-suite)** — pay once, own it forever, no subscription.
+Want the packaged desktop installer and future updates without touching a terminal? Grab the one-time convenience version: **[whop.com/onetime-suite](https://whop.com/benjisaiempire/chatterbox-app)** — pay once, own it forever, no subscription.
 
 ## Tech stack
 
