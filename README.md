@@ -1,5 +1,9 @@
 # Chatterbox 💬
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 **Self-hosted embeddable threaded comments. Pay once, own it forever.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-8b5cf6.svg)](LICENSE)
