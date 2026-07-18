@@ -2,7 +2,11 @@
 
 ## Demo
 
-VIDEO-PLACEHOLDER
+
+
+https://github.com/user-attachments/assets/968aad4c-002a-4e53-b0e3-a9ba2596bff5
+
+
 
 **Self-hosted embeddable threaded comments. Pay once, own it forever.**
 
